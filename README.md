@@ -2,7 +2,7 @@
 
 Application biblique interactive avec les promesses de Dieu organisées en 35 catégories thématiques. Version française avec versets Segond 21.
 
-🔗 **[Accéder à l'application](https://scassani1964.github.io/promesses-bibliques/)**
+🔗 **[Accéder à l'application](https://global-opera.github.io/promesses-bibliques/)**
 
 ## 📖 À Propos
 
@@ -84,8 +84,8 @@ Cette application permet de découvrir facilement les promesses de Dieu dans la 
 
 ## 🌐 Versions Disponibles
 
-- **Version française** : [promesses-bibliques](https://scassani1964.github.io/promesses-bibliques/) (Segond 21)
-- **Versão portuguesa** : [promessas-biblicas](https://scassani1964.github.io/promessas-biblicas/)
+- **Version française** : [promesses-bibliques](https://global-opera.github.io/promesses-bibliques/) (Segond 21)
+- **Versão portuguesa** : [promessas-biblicas](https://global-opera.github.io/promessas-biblicas/)
 
 ## 📧 Contact
 
