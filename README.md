@@ -1,17 +1,17 @@
 # ✝️ Promesses de Dieu
 
-Application biblique interactive avec les promesses de Dieu organisées en 35 catégories thématiques. Version française avec versets Segond 21.
+Application biblique interactive avec les promesses de Dieu organisées en 35 catégories thématiques. Version française, texte Louis Segond 1910 (domaine public).
 
 🔗 **[Accéder à l'application](https://global-opera.github.io/promesses-bibliques/)**
 
 ## 📖 À Propos
 
-Cette application permet de découvrir facilement les promesses de Dieu dans la Bible pour chaque situation de la vie. Avec plus de 130 versets bibliques en français (Segond 21), trouvez rapidement l'encouragement et la direction dont vous avez besoin.
+Cette application permet de découvrir facilement les promesses de Dieu dans la Bible pour chaque situation de la vie. Avec 113 versets bibliques en français (Louis Segond 1910, domaine public), trouvez rapidement l'encouragement et la direction dont vous avez besoin.
 
 ## 🎯 Fonctionnalités
 
 - **35 catégories organisées** en 7 sections thématiques
-- **130+ versets bibliques** en français (Segond 21)
+- **113 versets bibliques** en français (Louis Segond 1910, domaine public)
 - **Interface responsive** qui fonctionne parfaitement sur ordinateur, tablette et smartphone
 - **Mode de lecture complet** - cliquez sur n'importe quel verset pour le lire en plein écran
 - **Bouton flottant de retour en haut** - naviguez facilement parmi les catégories
@@ -21,7 +21,7 @@ Cette application permet de découvrir facilement les promesses de Dieu dans la 
 
 1. Ouvrez l'application dans le navigateur de votre téléphone
 2. Ajoutez à l'écran d'accueil pour un accès rapide comme une vraie app
-3. Fonctionne hors ligne après la première visite
+3. Une seule page : rien à installer, aucune donnée collectée
 4. Utilisez le bouton flottant (↑) pour remonter rapidement en haut
 
 ## 📚 Les 35 Catégories
@@ -84,8 +84,11 @@ Cette application permet de découvrir facilement les promesses de Dieu dans la 
 
 ## 🌐 Versions Disponibles
 
-- **Version française** : [promesses-bibliques](https://global-opera.github.io/promesses-bibliques/) (Segond 21)
-- **Versão portuguesa** : [promessas-biblicas](https://global-opera.github.io/promessas-biblicas/)
+- **Version française** : [promesses-bibliques](https://global-opera.github.io/promesses-bibliques/) (Louis Segond 1910)
+- **Versão portuguesa** : [promessas-biblicas](https://global-opera.github.io/promessas-biblicas/) (Bíblia Livre)
+
+Les deux versions sont produites par un même générateur : mêmes sections, mêmes thèmes,
+mêmes références. Seules changent la langue et la version biblique.
 
 ## 📧 Contact
 
@@ -94,7 +97,9 @@ Email : info@manialibris.com
 
 ## 📄 Licence
 
-Ce projet est d'usage libre pour l'édification spirituelle. Les textes bibliques Segond 21 sont sous copyright Société Biblique de Genève.
+Ce projet est d'usage libre pour l'édification spirituelle.
+
+Texte biblique : **Louis Segond 1910**, domaine public.
 
 ---
 
